@@ -36,6 +36,12 @@ The target classes represent the two classes present in the dataset.
 
 > ⚠️ This project is for educational and machine-learning demonstration purposes only. It is not a medical diagnostic tool and should not be used for medical decisions.
 
+# ❤️ Heart Disease Prediction — Machine Learning Web App
+
+🚀 *Live Demo:* https://heart-disease-prediction-xoy6vbjzid6mnqf6xbfb36.streamlit.app/
+
+An end-to-end machine learning application...
+
 ## 🚀 Key Features
 
 - Binary classification
